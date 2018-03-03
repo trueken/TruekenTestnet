@@ -1,0 +1,36 @@
+testrpc -m "put recycle please music manual hip north clock bread pipe mouse welcome"
+
+
+EthereumJS TestRPC v6.0.3 (ganache-core: 2.0.2)
+
+Available Accounts
+==================
+(0) 0xb3d5bce1fdd378c9dc0719bb2830b59a5fb39399
+(1) 0xa5c514819158232d0eb3836ae082def1dd78715b
+(2) 0xa243a98002ad89816960e82d4eca35cb5ded184c
+(3) 0x0d5d3d80bf2ca4f78aea87eae66c56069e3a0fb9
+(4) 0xde577a026d3e12da23ad678ad07ba4126f9edc19
+(5) 0x670963ff4d8f94f595cde4bff1d25cb05b5d1d31
+(6) 0x64f969d47c310784ca101b88d0bab5a18c3afad6
+(7) 0x192ee3081d76f54e431614c3e71ddd91c71a0491
+(8) 0x1407f315f8558fee486895f5d025f478ed714c78
+(9) 0x5fd0c7540f0e119f13e7a81afb26036e1d8966f5
+
+Private Keys
+==================
+(0) 18bf7d973373d2555f2481c1cacfb08e4ac935f4a51f54dceab32856ea85cbee
+(1) d97ede8a3dd4f4b11ca22ee3f4a7c9ed978c3f6a2086dc22d480db67bf130dba
+(2) e86d2611823d83ee98b3e28a1266088ff9273f9b3dfa807ed2dc594d7694d575
+(3) fe9708635c7f56275a48329da1de40f1c1fe96f57f11272416aa0c1ded89f77c
+(4) 97fdac2cdbd9702d2931644a8053de959bb8cf44d4de70e152289b6d6d9fadf4
+(5) f0f4045272504e1bd5655d50edccdc38af526d25c9acd98e56eea6170254e489
+(6) 021a341c18cbcd3626842e9bf55376f1d8c2a69a630c15cd87c1d88c903db012
+(7) 0fc4984d82d63432c03648b3897b2b84be5af450d0ea2d52c2d3cc971cee94af
+(8) 62b6bac4fdb7eb97de84a63a4cf8e79e3eafbe3bc0dfb9c776cde2239d42cfe4
+(9) 6bad0c9252bce143bc5e0833895fe68362d5e6326a112a58866a1c943dbf0666
+
+HD Wallet
+==================
+Mnemonic:      put recycle please music manual hip north clock bread pipe mouse welcome
+
+
